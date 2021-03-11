@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264622139898",
+    "project_id": "our-chat-93798",
+    "storage_bucket": "our-chat-93798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264622139898:android:1e41236d80c011133f9c43",
+        "android_client_info": {
+          "package_name": "com.sabahat.our_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264622139898-khnht06780qv925fhp7iosehm9s9ltal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgACIySSuI0W2Zq2tcAkB6rgv9RoktKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264622139898-khnht06780qv925fhp7iosehm9s9ltal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
